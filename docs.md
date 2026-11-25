@@ -14,3 +14,5 @@ This project is created for Git and GitHub practice.
 - VS Code
 - HTML
 - CSS
+## Version
+Version 1.0
