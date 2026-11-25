@@ -37,3 +37,7 @@ button {
     border-radius: 10px;
     cursor: pointer;
 }
+p {
+    font-size: 18px;
+    color: darkslategray;
+}
