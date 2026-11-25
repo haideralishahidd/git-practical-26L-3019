@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(to right, purple, blue);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 5px 15px black;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+h1 {
+    color: purple;
+}
+
+p {
+    color: gray;
+    font-size: 18px;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
